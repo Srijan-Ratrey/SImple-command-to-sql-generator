@@ -2,7 +2,7 @@
 
 Convert natural language questions into SQL queries using OpenAI's `gpt-4o-mini`. Powered by a clean Gradio Web UI and fully compatible with Google Colab.
 
-![Demo Screenshot]((https://github.com/Srijan-Ratrey/SImple-command-to-sql-generator/blob/main/DEMO.png))
+![Demo Screenshot](DEMO.png)
 
 ---
 
